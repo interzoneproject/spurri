@@ -33,7 +33,7 @@ async def ping(*args):
 	await client.say(":ping_pong: Pong!")
 	await asyncio.sleep(3)
 	
-client.run('421193764669751304')
+client.run('PUT YOUR BOT TOKEN HERE')
 
 # Basic Bot was created by Habchy#1665
 # Please join this Discord server if you need help: https://discord.gg/FNNNgqb
